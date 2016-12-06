@@ -16,7 +16,7 @@ To enable global retail network learning and development to make better decision
 
 ![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
-#HSLIDE?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
+#HSLIDE?video=https://www.youtube.com/embed/mkiDkkdGGAQ
 
 #HSLIDE
 

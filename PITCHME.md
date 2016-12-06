@@ -14,6 +14,8 @@ To enable global retail network learning and development to make better decision
 
 ## Product Strategy
 
+![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
+
 #HSLIDE
 
 ### Ad Hoc Query

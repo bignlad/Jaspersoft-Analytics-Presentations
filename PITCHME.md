@@ -2,6 +2,8 @@
 
 ## Welcome to the Jaspersoft Analytics Project
 
+#VSLIDE
+
 This project forms part of the delivery of a learning management system for our global retail network learning and development operation.
 
 #HSLIDE
